@@ -3,12 +3,12 @@ entries:
   javawebapp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-01-09T23:03:56.83649057-05:00"
+    created: "2025-01-09T23:13:55.309829766-05:00"
     description: A Helm chart for Kubernetes
-    digest: 714c3cb6acd0d3340f29afdb9fbb0fd88239f2cfea1be7cb83574c622660de4b
+    digest: ac22d98de9e9b68b3ffbac062ba4e1343bdfd3f49fa7775b3fcbdeb243f7c6b9
     name: javawebapp
     type: application
     urls:
     - https://johnbedeir.github.io/javawebapp-helm-chart/javawebapp-0.1.0.tgz
     version: 0.1.0
-generated: "2025-01-09T23:03:56.836035544-05:00"
+generated: "2025-01-09T23:13:55.309484495-05:00"
